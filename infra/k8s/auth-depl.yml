@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: auth-depl
-        image: lu97is/auth
+        image: us.gcr.io/ticketing-dev-275320/auth
         resources:
           limits:
             memory: "128Mi"
