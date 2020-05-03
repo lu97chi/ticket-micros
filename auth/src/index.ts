@@ -1,32 +1,10 @@
-import express from "express";
-import "express-async-errors";
-// import dotenv from 'dotenv';
-import { json } from "body-parser";
 import mongoose from "mongoose";
-import { currentuser } from "./routes/current-user";
-import { signin } from "./routes/signin";
-import { signout } from "./routes/signout";
-import { signup } from "./routes/signup";
-import { errorHandler } from "./middlewares/error-handler";
-import { NotFoundError } from "./errors/not-found-error";
-// dotenv.config();
-
-const app = express();
-
-app.use(json());
-app.use(currentuser);
-app.use(signup);
-app.use(signin);
-app.use(signout);
-
-app.all("*", () => {
-  throw new NotFoundError();
-});
-
-app.use(errorHandler);
-
+import { app } from './app';
 
 const start = async () => {
+  if (!process.env.JWT_KEY) {
+    throw new Error('JWT not defined');
+  }
   try {
     await mongoose.connect("mongodb://auth-mongo-srv:27017/auth", {
       useNewUrlParser: true,
