@@ -7,8 +7,7 @@ import { currentuser } from "./routes/current-user";
 import { signin } from "./routes/signin";
 import { signout } from "./routes/signout";
 import { signup } from "./routes/signup";
-import { errorHandler } from "./middlewares/error-handler";
-import { NotFoundError } from "./errors/not-found-error";
+import { errorHandler, NotFoundError } from "@wiselymaker/tickets";
 // dotenv.config();
 
 const app = express();
