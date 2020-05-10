@@ -1,0 +1,950 @@
+[
+  {
+    "description": "Signing",
+    "elements": [
+      {
+        "id": "ScenarioSigning;Inputs can change value",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Inputs can change value",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Inputs can change value",
+            "result": {
+              "duration": 10342,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Inputs can change value</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate any field enter with enter press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate any field enter with enter press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate any field enter with enter press",
+            "result": {
+              "duration": 4168,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate any field enter with enter press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate invalid email no password with enter press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate invalid email no password with enter press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate invalid email no password with enter press",
+            "result": {
+              "duration": 4660,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate invalid email no password with enter press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email no password with enter",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email no password with enter",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate valid email no password with enter",
+            "result": {
+              "duration": 7591,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email no password with enter</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate any field enter with signin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate any field enter with signin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate any field enter with signin button",
+            "result": {
+              "duration": 5760,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate any field enter with signin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email and password with singin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email and password with singin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate valid email and password with singin button",
+            "result": {
+              "duration": 11562,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email and password with singin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate any fiel enter with singin button press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate any fiel enter with singin button press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate any fiel enter with singin button press",
+            "result": {
+              "duration": 3582,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate any fiel enter with singin button press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate invalid email no password with singin button press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate invalid email no password with singin button press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate invalid email no password with singin button press",
+            "result": {
+              "duration": 4100,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate invalid email no password with singin button press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email no password with singin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email no password with singin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate valid email no password with singin button",
+            "result": {
+              "duration": 4238,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email no password with singin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email and password with singin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email and password with singin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "Validate valid email and password with singin button",
+            "result": {
+              "duration": 7753,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email and password with singin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;User can login",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "User can login",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "User can login",
+            "result": {
+              "duration": 11490,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">User can login</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;User can logout",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "User can logout",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1:0"
+            },
+            "name": "User can logout",
+            "result": {
+              "duration": 10518,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">User can logout</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Signing",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "app": {
+        "name": "Tickets micro",
+        "version": "x.y.z"
+      },
+      "browser": {
+        "name": "chrome",
+        "version": "81.0.4044.92"
+      },
+      "device": "Linux",
+      "platform": {
+        "name": "linux",
+        "version": "0.0"
+      }
+    },
+    "name": "Signing",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@signing"
+      },
+      {
+        "line": 0,
+        "name": "@inputs"
+      },
+      {
+        "line": 0,
+        "name": "@change"
+      },
+      {
+        "line": 0,
+        "name": "@value"
+      },
+      {
+        "line": 0,
+        "name": "@validate"
+      },
+      {
+        "line": 0,
+        "name": "@any"
+      },
+      {
+        "line": 0,
+        "name": "@field"
+      },
+      {
+        "line": 0,
+        "name": "@enter"
+      },
+      {
+        "line": 0,
+        "name": "@press"
+      },
+      {
+        "line": 0,
+        "name": "@invalid"
+      },
+      {
+        "line": 0,
+        "name": "@email"
+      },
+      {
+        "line": 0,
+        "name": "@password"
+      },
+      {
+        "line": 0,
+        "name": "@valid"
+      },
+      {
+        "line": 0,
+        "name": "@signin"
+      },
+      {
+        "line": 0,
+        "name": "@button"
+      },
+      {
+        "line": 0,
+        "name": "@singin"
+      },
+      {
+        "line": 0,
+        "name": "@fiel"
+      },
+      {
+        "line": 0,
+        "name": "@user"
+      },
+      {
+        "line": 0,
+        "name": "@login"
+      },
+      {
+        "line": 0,
+        "name": "@logout"
+      }
+    ],
+    "uri": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signUp.js:1"
+  },
+  {
+    "description": "Signing",
+    "elements": [
+      {
+        "id": "ScenarioSigning;Inputs can change value",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Inputs can change value",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Inputs can change value",
+            "result": {
+              "duration": 7981,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Inputs can change value</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate any field enter with enter press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate any field enter with enter press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate any field enter with enter press",
+            "result": {
+              "duration": 3682,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate any field enter with enter press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate invalid email no password with enter press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate invalid email no password with enter press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate invalid email no password with enter press",
+            "result": {
+              "duration": 4835,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate invalid email no password with enter press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email no password with enter",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email no password with enter",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate valid email no password with enter",
+            "result": {
+              "duration": 6280,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email no password with enter</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate any field enter with signin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate any field enter with signin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate any field enter with signin button",
+            "result": {
+              "duration": 5361,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate any field enter with signin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email and password with singin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email and password with singin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate valid email and password with singin button",
+            "result": {
+              "duration": 4383,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email and password with singin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate any fiel enter with singin button press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate any fiel enter with singin button press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate any fiel enter with singin button press",
+            "result": {
+              "duration": 3771,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate any fiel enter with singin button press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate invalid email no password with singin button press",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate invalid email no password with singin button press",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate invalid email no password with singin button press",
+            "result": {
+              "duration": 4478,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate invalid email no password with singin button press</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email no password with singin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email no password with singin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate valid email no password with singin button",
+            "result": {
+              "duration": 5077,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email no password with singin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;Validate valid email and password with singin button",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Validate valid email and password with singin button",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "Validate valid email and password with singin button",
+            "result": {
+              "duration": 6865,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Validate valid email and password with singin button</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;User can login",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "User can login",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "User can login",
+            "result": {
+              "duration": 6128,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">User can login</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioSigning;User can logout",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "User can logout",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1:0"
+            },
+            "name": "User can logout",
+            "result": {
+              "duration": 11171,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">User can logout</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Signing",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "app": {
+        "name": "Tickets micro",
+        "version": "x.y.z"
+      },
+      "browser": {
+        "name": "chrome",
+        "version": "81.0.4044.92"
+      },
+      "device": "Linux",
+      "platform": {
+        "name": "linux",
+        "version": "0.0"
+      }
+    },
+    "name": "Signing",
+    "runInfo": {
+      "endTime": "2020-05-10T03:49:18.988Z",
+      "passed": 24,
+      "startTime": "2020-05-10T03:46:30.819Z",
+      "testCount": 24,
+      "userAgents": [
+        "Chrome 81.0.4044.92 / Linux 0.0"
+      ],
+      "warnings": [
+        "The \"${TEST_INDEX}\" path pattern placeholder cannot be applied to the recorded video.\n\nThe placeholder was replaced with an empty string."
+      ]
+    },
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@signing"
+      },
+      {
+        "line": 0,
+        "name": "@inputs"
+      },
+      {
+        "line": 0,
+        "name": "@change"
+      },
+      {
+        "line": 0,
+        "name": "@value"
+      },
+      {
+        "line": 0,
+        "name": "@validate"
+      },
+      {
+        "line": 0,
+        "name": "@any"
+      },
+      {
+        "line": 0,
+        "name": "@field"
+      },
+      {
+        "line": 0,
+        "name": "@enter"
+      },
+      {
+        "line": 0,
+        "name": "@press"
+      },
+      {
+        "line": 0,
+        "name": "@invalid"
+      },
+      {
+        "line": 0,
+        "name": "@email"
+      },
+      {
+        "line": 0,
+        "name": "@password"
+      },
+      {
+        "line": 0,
+        "name": "@valid"
+      },
+      {
+        "line": 0,
+        "name": "@signin"
+      },
+      {
+        "line": 0,
+        "name": "@button"
+      },
+      {
+        "line": 0,
+        "name": "@singin"
+      },
+      {
+        "line": 0,
+        "name": "@fiel"
+      },
+      {
+        "line": 0,
+        "name": "@user"
+      },
+      {
+        "line": 0,
+        "name": "@login"
+      },
+      {
+        "line": 0,
+        "name": "@logout"
+      }
+    ],
+    "uri": "/home/luis/Desktop/Desktop/micro/third/client/e2e/pages/signin.js:1"
+  }
+]

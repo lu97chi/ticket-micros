@@ -1,0 +1,27 @@
+{
+    "browsers": [
+        "chrome"
+    ],
+    "src": "./e2e/**/*.js",
+    "screenshots":{
+        "path": "./screenshots",
+        "pathPattern": "${DATE}_${TIME}/test-${TEST_INDEX}/${USERAGENT}/${FILE_INDEX}.png",
+        "takeOnFails": true
+    },
+    "videoPath": "./videos",
+    "videoOptions": {
+        "singleFile": true,
+        "failedOnly": false,
+        "pathPattern": "${TEST_INDEX}/${USERAGENT}/${FILE_INDEX}.mp4"
+    },
+    "reporter": [
+        {
+            "name": "slack",
+            "options": {
+                "channel": "#general",
+                "loggingLevel": "TEST",
+                "webhookUrl": "https://hooks.slack.com/services/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"
+            }
+        }
+    ]
+}

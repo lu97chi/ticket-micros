@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next"
+    "dev": "next",
+    "e2e": "testcafe chrome e2e/**/*.js -L",
+    "cafe": "testcafe",
+    "reports": "node report-generator.js",
+    "cucumber": "timestamp=$(date \"+%s\") && testcafe chrome e2e/**/*.js --reporter cucumber-json:reports/report.json --reporter-app-name='Tickets micro' --reporter-app-version='x.y.z'"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +19,12 @@
     "next": "^9.3.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "multiple-cucumber-html-reporter": "^1.16.2",
+    "testcafe": "^1.8.4",
+    "testcafe-reporter-cucumber-json": "^5.1.0",
+    "testcafe-reporter-slack": "^0.0.6"
   }
 }
